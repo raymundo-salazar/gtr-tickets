@@ -1,0 +1,74 @@
+[
+  {
+    "title": "ZENITH 5",
+    "organizer": "GTR Academy",
+    "type": "",
+    "category": "",
+    "tags": ["estas", "son", "las", "etiquetas"],
+    "date": {
+      "type": "series_event",
+      "start": "2023-05-20T19:00:00.000Z",
+      "end": "2023-05-20T23:00:00.000Z",
+      "timezone": "America/Monterrey",
+      "laguage": "es_MX",
+      "display_start_date_time": true,
+      "display_end_date_time": true
+    },
+    "location": {
+      "type": "place",
+      "address": {
+        "name": "Cintermex",
+        "address_1": "Av Fundidora 501",
+        "address_2": "Obrera",
+        "zip": "64010",
+        "city": "Monterrey",
+        "state": "NL",
+        "country": "MX"
+      }
+    }
+  },
+  {
+    "title": "ZENITH 6",
+    "organizer": "GTR Academy",
+    "type": "",
+    "category": "",
+    "tags": ["estas", "son", "las", "etiquetas"],
+    "date": {
+      "type": "unique_event",
+      "start": "2023-05-10T19:00:00.000Z",
+      "end": "2023-05-10T23:00:00.000Z",
+      "timezone": "America/Monterrey",
+      "laguage": "es_MX",
+      "display_start_date_time": true,
+      "display_end_date_time": true
+    },
+    "location": {
+      "type": "online",
+      "livestream": [
+        {
+          "service": "",
+          "url": ""
+        }
+      ]
+    }
+  },
+  {
+    "title": "ZENITH 7",
+    "organizer": "GTR Academy",
+    "type": "",
+    "category": "",
+    "tags": ["estas", "son", "las", "etiquetas"],
+    "date": {
+      "type": "unique_event",
+      "start": "2023-06-10T19:00:00.000Z",
+      "end": "2023-06-10T23:00:00.000Z",
+      "timezone": "America/Monterrey",
+      "laguage": "es_MX",
+      "display_start_date_time": true,
+      "display_end_date_time": true
+    },
+    "location": {
+      "type": "pending"
+    }
+  }
+]
